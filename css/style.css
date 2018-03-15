@@ -1,0 +1,489 @@
+body{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 14px;
+	color: #000;
+}
+header{
+	background-color:#FFF;
+	
+}
+header h1{ color:#666;
+	font-size: 20px;	
+}
+#sec-primera {
+	
+}
+#sec-nueve {background-image:url(../img/pexels-photo-134577.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:5%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	margin:30px 0px;
+	
+}
+#sec-diez {background-image:url(../img/pexels-photo-69976.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:5%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	margin:30px 0px;
+	
+}
+#sec-once{background-image:url(../img/coffee-coffee-maker-restaurant-cafe-52977.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:5%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	margin:30px 0px;
+	
+}
+	
+	
+
+.circulo {    
+     width: 600px;
+     height: 600px;
+     border-radius: 30%;
+	 
+     background: #FFF;
+	 
+	
+}
+.cuadros {
+	text-align: center;
+	padding: 80px 10px 10px;
+	margin-left:80px;
+	margin-right:80px;
+	
+}
+#sec-uno {background-image:url(../img/pexels-photo-416441.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	
+}
+#sec-tres {background-image:url(../img/coffee-coffee-cup-porcelain-coffee-beans-144253.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	
+}
+#sec-prod
+#sec-ocho {background-image:url(../img/1437690263_965678_1437690599_album_normal.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	
+}
+#sec-cuatro {background-image:url(../img/43489.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	
+}
+#sec-cinco {background-image:url(../img/pexels-photo-48520.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	
+}
+#sec-seis {background-image:url(../img/43489.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	
+}
+#sec-siete {background-image:url(../img/43489.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	
+}
+.gallery {
+	padding: 10px 10px 10px;
+	margin-left:30px;
+	margin-right:30px;
+}
+.personal {
+	padding: 50px 10px 10px;
+	margin-left:60px;
+	margin-right:60px;
+	
+}
+.personal p{color:#999;
+text-align: center;
+	
+}
+#sec-summer {
+	background-image:url(../img/pexels-photo-48520.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	padding-top:25%;
+	padding-bottom:40px;
+	background-attachment:fixed;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	
+}
+#sec-esta {padding: 80px 10px 10px;
+	margin-left:60px;
+	margin-right:60px;
+	text-align: center;
+	
+}
+#sec-esta h1{
+	color:#000;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+
+#sec-esta p{
+	color:#39F;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+
+
+
+.colorazul{ color:#39F;
+	
+}
+.colorblan{ color:#FFFFFF;
+	
+}
+img.imagen {
+		margin-left:auto;
+		margin-right:auto;
+		display:block;
+		padding-top:5px;
+		width:30%;
+	}
+
+	div.etiquetas {
+		color:black;
+		text-align:center;
+		width:222px;
+		height:22px;
+	}
+
+	div.stock {padding-left:0px;}
+
+	input.uniBien {
+		position:relative;
+		margin-left:45px;
+
+
+		background:white;
+	}
+	input.uniMal {
+		margin-left:52px;
+		background:red;
+	}
+
+	div.divsNo {display:none;}
+	div.divsSi {display:yes;}
+	#menu{
+		position:absolute;
+		top:26px;
+		left:143px;
+		width:715px;
+}
+	div.menuNo{height:775px;}
+	div.menuSi{height:1040px;}
+
+/*Divs para colocar cada producto en su sitio*/
+	#div1{
+		position:absolute;
+		top:38px;
+		left:12px;
+		width:221px;
+		height:217px;
+	}
+
+	#div2{
+		position:absolute;
+		top:38px;
+		left:246px;
+		width:221px;
+		height:217px;
+	}
+
+	#div3{
+		position:absolute;
+		top:38px;
+		left:480px;
+		width:221px;
+		height:217px;
+	}
+
+	#div4{
+		position:absolute;
+		top:271px;
+		left:12px;
+		width:221px;
+		height:217px;
+	}
+
+	#div5{
+		position:absolute;
+		top:271px;
+		left:246px;
+		width:221px;
+		height:217px;
+	}
+
+	#div6{
+		position:absolute;
+		top:271px;
+		left:480px;
+		width:221px;
+		height:217px;
+	}
+
+	#div7{
+		position:absolute;
+		top:504px;
+		left:12px;
+		width:221px;
+		height:217px;
+	}
+
+	#div8{
+		position:absolute;
+		top:504px;
+		left:246px;
+		width:221px;
+		height:217px;
+	}
+
+	#div9{
+		position:absolute;
+		top:504px;
+		left:480px;
+		width:221px;
+		height:217px;
+	}
+
+
+
+/*CSS DEL CARRITO DE LA COMPRA*/
+	/*Div para los botones*/
+	#divbotones{
+		position:relative;
+		top:742px;
+		left:11px;
+		width:440px;
+		height:23px;
+	}
+
+	#tablaTotal {
+		margin: 0px 0px 0px 0px;
+	}
+	td.pro {
+		width:300px;
+		text-align:center;
+		background:#1a6c68;
+	}
+	td.uni {
+		width:150px;
+		text-align:center;
+		background:#1a6c68;
+	}
+	td.preUni {
+		width:150px;
+		text-align:center;
+		background:#1a6c68;
+	}
+	td.preTotal {
+		width:150px;
+		text-align:center;
+		background:#1a6c68;
+	}
+	tr.proCarrito {
+		text-align:center;
+	}
+
+	/*Divs para la zona de compras*/
+	div.divZonaCompraSi{
+		position:relative;
+		top:742px;
+		padding:0px 11px 20px 11px;
+		display:yes;
+		width:693px;
+		height:auto;
+
+		background:#3c8c89;
+	}
+	div.divZonaCompraNo{
+		position:relative;
+		top:742px;
+		padding:0px 11px 20px 11px;
+		display:none;
+		width:693px;
+		height:385px;
+
+		background:#3c8c89;
+	}
+
+	/*Divs del carrito y formularios*/
+	#divTotal{
+		background:#378582;
+	}
+	#divDatos{
+		background:#378582;
+	}
+
+	#divPago{
+		height: 150px;
+		padding-left:10px;
+		background:#378582;
+	}
+	
+	#divDatosPersonales0 {
+		position:relative;
+		left:0px;
+		padding:0px 0px 0px 10px;
+		width:440px;
+		height:140px;
+	}
+
+	#divDatosPersonales1 {
+		position:relative;
+		width:230px;
+		height:130px;
+	}
+
+	#divDatosPersonales2 {
+		position:relative;
+		top:-130px;
+		left:260px;
+		width:200px;
+		height:130px;
+	}
+
+	#divDomicilio{
+		padding:0px 0px 0px 10px;
+	}
+
+
+	
+	
+	
+/*CSS VALIDACION*/	
+	input.textBien {background:#d1fbe1;}
+	input.textMal {background:pink;}
+	select.textBien {background:#d1fbe1;}
+	select.textMal {background:pink;}	
+	span.alertTipoDeTarjeta {color:red;}
+
+	
+	
+/*Metodos de pago*/	
+#metodosDePago{
+	position:relative;
+	top:8px;
+	width:128px;
+	height:60px;
+}
+
+#divNumeroTarjeta{
+	position:relative;
+	top:-52px;
+	left:140px;
+	width:180px;
+	height:70px;
+}
+
+input.logoTarjetas { 
+	bottom:6px;
+	position: relative;
+}	
+
+#sec-footer{
+	background-color: #666;
+	color: #FFFFFF;
+	padding: 30px 0px;
+		
+}
+#sec-footer p {
+	color:#FFF;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+	
+}
+#sec-footer ul{
+	list-style: none;	
+}
+#sec-footer a{ color: #FFFFFF;
+	text-decoration: none;
+	
+}
+#sec-footer a:hover { color: #39F;
+	text-decoration: none;
+	
+}
+#sec-copy{
+	
+	background-color:#333;
+	color: #FFF;
+	padding: 25px 0px ;
+	text-align: center;
+}
